@@ -4,3 +4,6 @@ MIT Exercise in understanding JavaScript to track mouse movements and adjust CSS
 No adjustments needed to run this on your computer.
 
 Potential next steps on this exercise may include making the eyes blink at random intervals.
+
+License
+This project is under license from MIT. For more details, see the LICENSE file.
